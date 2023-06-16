@@ -1,6 +1,10 @@
 # Folder
 1.data_raw/
 2.data_detected/
+3.data_train/
+4.models/
+5.Vectorizer/
+6.Predictions/
 
 .DS_Store
 
