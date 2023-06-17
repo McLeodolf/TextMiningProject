@@ -1,6 +1,8 @@
 # Folder
 1.data_raw/
 2.data_detected/
+3.data_train
+4.glove_model
 
 .DS_Store
 
